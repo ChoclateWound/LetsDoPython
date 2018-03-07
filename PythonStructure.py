@@ -1,5 +1,7 @@
 #!/usr/bin/python -tt
-
+"""
+Sample to accept arguments in python
+"""
 import sys
 
 def main():
